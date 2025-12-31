@@ -30,11 +30,3 @@ To run this project locally on your machine:
 2. **Open the project**
    - Navigate to the project folder.
    - Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).
-
-## Usage
-
-Once opened, the clock will immediately display the current time based on your system settings.
-
-## License
-
-This project is open source and available under the MIT License.
